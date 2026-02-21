@@ -13,11 +13,6 @@ architecture-beta
 
 ```
 ```mermaid
----
-icons:
-    - name: logos
-      url: https://unpkg.com/@iconify-json/logos@1/icons.json
----
 architecture-beta
     group api(logos:aws-lambda)[API]
 
