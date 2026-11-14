@@ -1,4 +1,7 @@
 ```mermaid
+info
+```
+```mermaid
 ---
 config:
   layout: elk
