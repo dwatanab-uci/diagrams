@@ -4,7 +4,6 @@ info
 ```mermaid
 ---
 config:
-  layout: elk
   look: handDrawn
 ---
 
