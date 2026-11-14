@@ -5,6 +5,7 @@ info
 ---
 config:
   layout: dagre
+  theme: neo
   look: handDrawn
 ---
 
