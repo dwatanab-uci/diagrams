@@ -6,9 +6,6 @@ info
 config:
   layout: elk
   look: handDrawn
-  elk:
-    mergeEdges: true
-    nodePlacementStrategy: LINEAR_SEGMENTS
 ---
 
 graph LR
