@@ -4,6 +4,7 @@ info
 ```mermaid
 ---
 config:
+  layout: dagre
   look: handDrawn
 ---
 
